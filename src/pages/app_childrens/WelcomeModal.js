@@ -128,7 +128,7 @@ export default class App extends React.Component {
         <MDBModalHeader>
           <MDBRow>
             <MDBCol>
-              <img src="/images/oap_logo.jpg" width="40px" className="mr-3"/>Welcome to OAP Forensic
+              <img src={process.env.PUBLIC_URL + "/images/oap_logo.jpg"} width="40px" className="mr-3"/>Welcome to OAP Forensic
             </MDBCol>
           </MDBRow>
         </MDBModalHeader>

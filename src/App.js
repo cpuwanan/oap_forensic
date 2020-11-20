@@ -134,7 +134,7 @@ export default class App extends React.Component {
         <div style={{ width: isDesktopSize ? "300px" : "200px"}}>
           <section className="m-2">
             <section className="text-center">
-              <img src="/images/oap_logo.jpg" alt="oap_francis" width="40%" />
+              <img src={process.env.PUBLIC_URL + "/images/oap_logo.jpg"} alt="oap_francis" width="40%" />
             </section>
             <hr />
             <MDBRow>

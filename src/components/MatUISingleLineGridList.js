@@ -58,7 +58,7 @@ const SimpleSingleLineGridList = ({item_array, N = 1}) => {
           item_array.length > 0 &&
           item_array.map(item => (
             <GridListTile key={item}>
-              <img src={item} alt={item} />
+              <img src={process.env.PUBLIC_URL + item} alt={item} />
             </GridListTile>
           ))
         }
