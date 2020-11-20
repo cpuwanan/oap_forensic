@@ -85,7 +85,7 @@ export default class App extends React.Component {
                         </a>
                       </MDBCol>
                     </MDBRow>
-                    <img src={obj} alt={obj} width="100%" />
+                    <img src={process.env.PUBLIC_URL + obj} alt={obj} width="100%" />
                   </MDBListGroupItem>
                 </MDBCol>
               ))
