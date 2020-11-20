@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/oap_forensic/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/oap_forensic/static/js/main.e7978e2a.chunk.js",
+    "main.js.map": "/oap_forensic/static/js/main.e7978e2a.chunk.js.map",
+    "runtime-main.js": "/oap_forensic/static/js/runtime-main.3d5e8992.js",
+    "runtime-main.js.map": "/oap_forensic/static/js/runtime-main.3d5e8992.js.map",
+    "static/css/2.ccef0026.chunk.css": "/oap_forensic/static/css/2.ccef0026.chunk.css",
+    "static/js/2.d04db333.chunk.js": "/oap_forensic/static/js/2.d04db333.chunk.js",
+    "static/js/2.d04db333.chunk.js.map": "/oap_forensic/static/js/2.d04db333.chunk.js.map",
+    "index.html": "/oap_forensic/index.html",
+    "precache-manifest.d90a548ae1da5bc0d740cc2ddda26861.js": "/oap_forensic/precache-manifest.d90a548ae1da5bc0d740cc2ddda26861.js",
+    "service-worker.js": "/oap_forensic/service-worker.js",
+    "static/css/2.ccef0026.chunk.css.map": "/oap_forensic/static/css/2.ccef0026.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/oap_forensic/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.d04db333.chunk.js.LICENSE.txt": "/oap_forensic/static/js/2.d04db333.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/oap_forensic/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "/oap_forensic/static/media/fa-solid-900.ee09ad75.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d5e8992.js",
+    "static/css/2.ccef0026.chunk.css",
+    "static/js/2.d04db333.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.e7978e2a.chunk.js"
+  ]
+}
